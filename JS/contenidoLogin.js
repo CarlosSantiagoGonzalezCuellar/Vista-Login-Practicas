@@ -2,7 +2,7 @@
 document.getElementById("btnIngresar").onclick = function () {
     Swal.fire(
         'Sesion iniciada!',
-        'Se ha iniciado sesion como Usaurio/Administrador!',
+        'Se ha iniciado sesion como Usuario/Administrador!',
         'success'
     )
 }
